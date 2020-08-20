@@ -1,0 +1,19 @@
+{
+    "name": "banpay/nombre-funciones-ws-banpay",
+    "description": "Con esta librer\u0000a podemos extraer solo los nombres de todas las funciones disponibles del servicio web de BanPAY",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BanPAY",
+            "email": "banpay@banpay.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "libs/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
